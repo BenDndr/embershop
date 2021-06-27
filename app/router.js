@@ -10,4 +10,5 @@ Router.map(function () {
   this.route('cart', { path: 'shopping-cart' });
   this.route('item');
   this.route('not');
+  this.route('not-found');
 });
