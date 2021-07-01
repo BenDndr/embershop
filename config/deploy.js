@@ -3,7 +3,7 @@
 
 module.exports = function(deployTarget) {
   let ENV = {
-    build: {}
+    build: {},
     // include other plugin configuration that applies to all deploy targets here
   };
 
@@ -20,10 +20,6 @@ module.exports = function(deployTarget) {
   if (deployTarget === 'production') {
     ENV.build.environment = 'production';
     // configure other plugins for production deploy target here
-  }
-
-  ENV.ghpages = {
-    gitRemoteUrl: 'https://github.com/BenDndr/embershop';
   }
 
   // Note: if you need to build some configuration asynchronously, you can return
