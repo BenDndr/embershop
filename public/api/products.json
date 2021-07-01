@@ -18,11 +18,11 @@
     ],
     "colors": [{
         "color": "red",
-        "image": "/assets/images/beats-solo-red.png"
+        "image": "https://github.com/BenDndr/embershop/blob/master/public/assets/beats-solo-red.png?raw=true"
       },
       {
         "color": "black",
-        "image": "/assets/images/beats-solo-black.png"
+        "image": "https://github.com/BenDndr/embershop/blob/master/public/assets/beats-solo-black.png?raw=true"
       }
     ],
     "rating": 4
@@ -42,7 +42,7 @@
     ],
     "colors": [{
       "color": "white",
-      "image": "/assets/images/nike-af1-white.png"
+      "image": "https://github.com/BenDndr/embershop/blob/master/public/assets/images/nike-af1-white.png?raw=true"
     }],
     "rating": 3
     },
@@ -62,11 +62,11 @@
       ],
       "colors": [{
         "color": "yellow",
-        "image": "/assets/saxophone-red.jpg"
+        "image": "https://github.com/BenDndr/embershop/blob/master/public/assets/saxophone-red.jpg?raw=true"
       },
       {
         "color": "black",
-        "image": "/assets/saxophone-black.jpg"
+        "image": "https://github.com/BenDndr/embershop/blob/master/public/assets/saxophone-black.jpg?raw=true"
       }],
       "rating": 5
     }
